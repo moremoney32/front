@@ -9,6 +9,7 @@ export function totalArticlesPrix(arrayOftotal){
 
     let totalArticle = []
     let totalPrix = []
+    console.log(true)
 
 
   totalArticle = arrayOftotal.map(item =>{
